@@ -1,0 +1,24 @@
+2021-05-12T05:10:48+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::getresults() in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php:149
+Stack trace:
+#0 /var/www/html/custom/wp-includes/class-wp-hook.php(292): sent_mail('')
+#1 /var/www/html/custom/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/custom/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /var/www/html/custom/wp-settings.php(560): do_action('init')
+#4 /var/www/html/custom/wp-config.php(91): require_once('/var/www/html/c...')
+#5 /var/www/html/custom/wp-load.php(37): require_once('/var/www/html/c...')
+#6 /var/www/html/custom/wp-admin/admin-ajax.php(22): require_once('/var/www/html/c...')
+#7 {main}
+  thrown in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 149
+
+2021-05-12T05:17:22+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 148
+
+2021-05-12T05:17:23+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 148
+
+2021-05-12T05:17:23+00:00 CRITICAL Object of class stdClass could not be converted to string in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 148
+
+2021-05-12T05:20:48+00:00 CRITICAL syntax error, unexpected 'global' (T_GLOBAL) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 147
+
+2021-05-12T05:20:48+00:00 CRITICAL syntax error, unexpected 'global' (T_GLOBAL) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 147
+
+2021-05-12T05:20:48+00:00 CRITICAL syntax error, unexpected 'global' (T_GLOBAL) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 147
+

@@ -1,0 +1,68 @@
+2021-05-11T08:53:51+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 117
+
+2021-05-11T08:59:40+00:00 CRITICAL Cannot redeclare mail() in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 130
+
+2021-05-11T08:59:41+00:00 CRITICAL Cannot redeclare mail() in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 130
+
+2021-05-11T09:21:46+00:00 CRITICAL syntax error, unexpected 'add_filter' (T_STRING) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 126
+
+2021-05-11T09:23:11+00:00 CRITICAL syntax error, unexpected 'add_filter' (T_STRING) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 126
+
+2021-05-11T09:23:12+00:00 CRITICAL syntax error, unexpected 'add_filter' (T_STRING) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 126
+
+2021-05-11T09:41:30+00:00 CRITICAL syntax error, unexpected 'get_template_directory' (T_STRING) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 127
+
+2021-05-11T09:44:55+00:00 CRITICAL require_once(): Failed opening required '/var/www/html/custom/wp-content/themes/twentytwentyone/includes/email_template.php' (include_path='.:/usr/share/php') in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 127
+
+2021-05-11T09:55:05+00:00 CRITICAL syntax error, unexpected '.' in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 128
+
+2021-05-11T09:59:09+00:00 CRITICAL syntax error, unexpected '$headers' (T_VARIABLE) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 129
+
+2021-05-11T11:13:40+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 117
+
+2021-05-11T11:13:48+00:00 CRITICAL syntax error, unexpected ';' in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 125
+
+2021-05-11T11:16:15+00:00 CRITICAL require(): Failed opening required 'http://localhost/custom/wp-content/themes/twentytwentyone-child/includes/email_template.php' (include_path='.:/usr/share/php') in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 2
+
+2021-05-11T11:49:48+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 142
+
+2021-05-11T11:49:49+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 142
+
+2021-05-11T11:50:01+00:00 CRITICAL syntax error, unexpected '$content_type' (T_VARIABLE) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 131
+
+2021-05-11T11:52:13+00:00 CRITICAL syntax error, unexpected 'add_filter' (T_STRING) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 133
+
+2021-05-11T11:52:37+00:00 CRITICAL require(): Failed opening required 'http://localhost/custom/wp-content/themes/twentytwentyone-childincludes/email-template.php' (include_path='.:/usr/share/php') in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 127
+
+2021-05-11T11:53:14+00:00 CRITICAL require(): Failed opening required 'http://localhost/custom/wp-content/themes/twentytwentyone-childincludes/email-template.php' (include_path='.:/usr/share/php') in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 127
+
+2021-05-11T11:53:23+00:00 CRITICAL require(): Failed opening required 'http://localhost/custom/wp-content/themes/twentytwentyone-child/includes/email-template.php' (include_path='.:/usr/share/php') in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 127
+
+2021-05-11T12:11:22+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 126
+
+2021-05-11T12:15:40+00:00 CRITICAL syntax error, unexpected ';' in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 126
+
+2021-05-11T12:18:01+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 143
+
+2021-05-11T12:18:02+00:00 CRITICAL syntax error, unexpected end of file in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 143
+
+2021-05-11T12:19:18+00:00 CRITICAL require(): Failed opening required 'http://localhost/custom/wp-content/themes/twentytwentyone-child/includes/email-template.php' (include_path='.:/usr/share/php') in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 127
+
+2021-05-11T12:19:32+00:00 CRITICAL require_once(): Failed opening required 'http://localhost/custom/wp-content/themes/twentytwentyone-child/includes/email-template.php' (include_path='.:/usr/share/php') in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 127
+
+2021-05-11T13:23:30+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 149
+
+2021-05-11T13:23:31+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 149
+
+2021-05-11T13:39:13+00:00 CRITICAL syntax error, unexpected '$data' (T_VARIABLE), expecting ',' or ';' in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 148
+
+2021-05-11T13:40:12+00:00 CRITICAL syntax error, unexpected '$to' (T_VARIABLE) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 151
+
+2021-05-11T13:40:15+00:00 CRITICAL syntax error, unexpected '$to' (T_VARIABLE) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 151
+
+2021-05-11T13:40:15+00:00 CRITICAL syntax error, unexpected '$to' (T_VARIABLE) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 151
+
+2021-05-11T13:40:30+00:00 CRITICAL syntax error, unexpected '$to' (T_VARIABLE) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 151
+
+2021-05-11T13:40:55+00:00 CRITICAL syntax error, unexpected '$to' (T_VARIABLE) in /var/www/html/custom/wp-content/themes/twentytwentyone-child/functions.php on line 151
+
